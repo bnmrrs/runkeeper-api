@@ -38,7 +38,7 @@ distutils.core.setup(
     packages = ["runkeeper"],
     author="Ben Morris",
     author_email="ben@bnmrrs.com",
-    url="http://www.github.com/bnmrrs/runkeeper",
+    url="http://www.github.com/bnmrrs/runkeeper-api",
     license="http://www.opensource.org/licenses/mit-license.php",
     description="Runkeeper provides an API for the Runkeeper Webapp (http://runkeeper.com).",
 )
