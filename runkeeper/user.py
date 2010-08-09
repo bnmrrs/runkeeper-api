@@ -30,9 +30,9 @@ so BeautifulSoup is used to scrape pages.
 
 Here is the basic example of getting total distance for a user
 
-    import runkeeper.user
+    from runkeeper import User
 
-    user = runkeeper.user.User("bnmrrs")
+    user = User("bnmrrs")
     activities = user.get_all_activities()
 
     total_distance = 0

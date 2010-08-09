@@ -34,7 +34,7 @@ except ImportError:
 
 distutils.core.setup(
     name="runkeeper-api",
-    version="0.1",
+    version="0.2",
     packages = ["runkeeper"],
     author="Ben Morris",
     author_email="ben@bnmrrs.com",
