@@ -1,6 +1,6 @@
 ## Unofficial Runkeeper-API
 
-### Description
+### Overview
 The Runkeeper-API is used to interact with Runkeeper (http://runkeeper.com)
 Runkeeper does provide an official API so BeautifulSoup is used to
 scrae pages.  Currently this package can only be used for reading.
