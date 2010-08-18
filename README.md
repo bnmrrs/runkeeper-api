@@ -1,17 +1,17 @@
-## Unofficial Runkeeper-API
+# Unofficial Runkeeper-API
 
-### Overview
+## Overview
 The Runkeeper-API is used to interact with Runkeeper (http://runkeeper.com)
 Runkeeper does provide an official API so BeautifulSoup is used to
 scrae pages.  Currently this package can only be used for reading.
 
-### Installation
+## Installation
 
     $ sudo python setup.py install
 
-### Dependencies
+## Dependencies
 [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)  
 [simplejson](http://www.undefined.org/python/)
 
-### License
+## License
 This package is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
