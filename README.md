@@ -14,4 +14,4 @@ scrae pages.  Currently this package can only be used for reading.
 [simplejson](http://www.undefined.org/python/)
 
 ### License
-TwilioSimple is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
+This package is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
