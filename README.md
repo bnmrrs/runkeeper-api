@@ -9,6 +9,22 @@ scrae pages.  Currently this package can only be used for reading.
 
     $ sudo python setup.py install
 
+## Usage
+
+### Get distance
+A simple example for getting the total distance a user has covered
+
+<pre><code>from runkeeper import User
+	
+user = User("bnmrrs")
+activities = user.get_all_activities()
+
+total_distance = 0
+for activity in activities:
+	total_distance += activity.get_distance()
+
+print "%dkm" % total_distance</code></pre>
+
 ## Dependencies
 [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)  
 [simplejson](http://www.undefined.org/python/)
