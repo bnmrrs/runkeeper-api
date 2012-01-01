@@ -42,6 +42,6 @@ Here is the basic example of getting total distance for a user
     print total_distance
 """
 
-from runkeeper import User
+from runkeeper.user import User
 
 
