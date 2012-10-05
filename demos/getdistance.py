@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from runkeeper import User
 
 user = User("bnmrrs")
